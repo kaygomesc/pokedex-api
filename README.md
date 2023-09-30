@@ -7,7 +7,7 @@ Este é um projeto de uma Pokédex desenvolvido como parte do curso da DIO (Digi
 - HTML
 - CSS
 - JavaScript
-- [Inserir aqui o nome da API utilizada]
+- Poke-api
 
 ## Funcionalidades
 
